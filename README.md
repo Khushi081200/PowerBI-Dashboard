@@ -1,4 +1,3 @@
-Blinkit Sales Analysis – Power BI Report
 📊 Project Overview
 
 This repository contains a Power BI sales analysis report for Blinkit, along with the raw sales data in CSV format. The project aims to provide insights into Blinkit’s sales performance, trends, and key metrics.
