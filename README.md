@@ -1,45 +1,34 @@
-Power BI dashboard project for Pizza sales analysis
-
+Blinkit Sales Analysis – Power BI Report
 📊 Project Overview
 
-This repository contains a Power BI report analyzing pizza sales performance.
-It includes interactive dashboards, visualizations, and insights based on sales data to help track trends, customer behavior, and product performance.
+This repository contains a Power BI sales analysis report for Blinkit, along with the raw sales data in CSV format. The project aims to provide insights into Blinkit’s sales performance, trends, and key metrics.
+
+Power BI Report Highlights:
+
+Interactive dashboards for Blinkit sales performance
+
+Product-level and category-level analysis
+
+Sales trends over time
+
+Regional and city-wise sales distribution
+
+Profit and revenue insights
+
 📂 Repository Contents
 
-Pizza_Sales_Report.pbix – The Power BI file containing dashboards and visualizations.
+Blinkit_Sales_Report.pbix – Power BI report file
 
-Pizza_Sales_Data.csv – Raw sales dataset used for analysis.
+Blinkit_Sales_Data.csv – Raw sales data used for analysis
 
-README.md – This file describing the project.
+README.md – This file
 
-🔍 Features
+📈 Dataset Preview
+OrderID	Product	Category	City	Sales	Quantity	Profit
+1001	Product A	Grocery	Delhi	1200	3	200
+1002	Product B	Snacks	Mumbai	850	2	150
+1003	Product C	Beverages	Bangalore	1450	5	300
 
-Sales trends over time (daily, monthly, yearly)
+Note: This is a sample preview. The full dataset is in Blinkit_Sales_Data.csv.
 
-Best-selling pizza types and toppings
-
-Revenue breakdown by store location
-
-Interactive slicers for filtering by date, store, or product
-
-⚡ How to Use
-
-Download the repository.
-
-Open Pizza_Sales_Report.pbix in Power BI Desktop.
-
-Load the Pizza_Sales_Data.csv if prompted.
-
-Interact with the report to explore sales trends and insights.
-
-
-📈 Insights
-
-This report can be used to:
-
-Identify high-performing pizza products
-
-Understand sales trends and seasonality
-
-Make data-driven business decisions for promotions or inventory
-<img width="927" height="499" alt="image" src="https://github.com/user-attachments/assets/ea3eb343-8859-4aa9-aa76-b10dd900af00" />
+<img width="905" height="505" alt="image" src="https://github.com/user-attachments/assets/0c906ec3-b070-4a1b-b53d-9623703f2f27" />
